@@ -15,16 +15,8 @@ Notes:
 
 The set of variables that were estimated from these signals are; mean(): Mean value and std(): Standard deviation. The UCI_HAR_Tidy_Dataset_AVG consists of the following columns:
 
-1 subject: Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30.
-2 activity: activity name.
-
-* WALKING
-* WALKING_UPSTAIRS
-* WALKING_DOWNSTAIRS
-* SITTING
-* STANDING
-* LAYING
-
+1. subject: Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30.
+2. activity: activity name: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING.
 3. tBodyAcc-mean()-X: 
 4. tBodyAcc-mean()-Y: 
 5. tBodyAcc-mean()-Z: 
